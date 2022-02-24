@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-bh-website/static/css/main.29257ba4.css",
-    "main.js": "/react-bh-website/static/js/main.5a88d4bf.js",
-    "index.html": "/react-bh-website/index.html",
-    "main.29257ba4.css.map": "/react-bh-website/static/css/main.29257ba4.css.map",
-    "main.5a88d4bf.js.map": "/react-bh-website/static/js/main.5a88d4bf.js.map"
+    "main.css": "/web-template/static/css/main.29257ba4.css",
+    "main.js": "/web-template/static/js/main.5a88d4bf.js",
+    "index.html": "/web-template/index.html",
+    "main.29257ba4.css.map": "/web-template/static/css/main.29257ba4.css.map",
+    "main.5a88d4bf.js.map": "/web-template/static/js/main.5a88d4bf.js.map"
   },
   "entrypoints": [
     "static/css/main.29257ba4.css",
