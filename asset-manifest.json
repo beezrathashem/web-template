@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-bh-website/static/css/main.059390bd.css",
-    "main.js": "/react-bh-website/static/js/main.f46ec076.js",
+    "main.css": "/react-bh-website/static/css/main.29257ba4.css",
+    "main.js": "/react-bh-website/static/js/main.5a88d4bf.js",
     "index.html": "/react-bh-website/index.html",
-    "main.059390bd.css.map": "/react-bh-website/static/css/main.059390bd.css.map",
-    "main.f46ec076.js.map": "/react-bh-website/static/js/main.f46ec076.js.map"
+    "main.29257ba4.css.map": "/react-bh-website/static/css/main.29257ba4.css.map",
+    "main.5a88d4bf.js.map": "/react-bh-website/static/js/main.5a88d4bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.059390bd.css",
-    "static/js/main.f46ec076.js"
+    "static/css/main.29257ba4.css",
+    "static/js/main.5a88d4bf.js"
   ]
 }
